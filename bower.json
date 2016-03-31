@@ -1,0 +1,24 @@
+{
+  "name": "harbour",
+  "description": "User interface for docker",
+  "main": "",
+  "authors": [
+    "Iain Earl <synapse791@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Synapse791/harbour",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lato-font": "~1.1.1",
+    "semantic": "semantic-ui#~2.1.8"
+  }
+}
