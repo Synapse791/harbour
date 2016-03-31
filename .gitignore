@@ -1,3 +1,6 @@
+/.idea
+/public/lib
+/public/css
 /vendor
 /node_modules
 /public/storage
